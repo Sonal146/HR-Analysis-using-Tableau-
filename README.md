@@ -1,9 +1,9 @@
 # HR Analytics Dashboard Project
 
-#3 Project Overview
+#Project Overview
 This project focuses on leveraging Tableau to analyze and visualize Human Resources data, aiming to provide actionable insights into key HR metrics such as employee demographics, performance, compensation, attrition, and engagement. The project highlights how data-driven approaches can be used to enhance workforce management, improve employee satisfaction, and optimize HR strategies.
 
-## objectives
+## Objectives
 
 Understand Workforce Composition: Analyze employee demographics, including gender distribution, age groups, and department-wise headcount.
 
